@@ -5,9 +5,10 @@
         };
         console.log(korpa);
         
-        korpa.gpu = 500;
         korpa.napajanje = 300;
         korpa.ram = 100;
+        korpa['gpu'] = 600;
         console.log(korpa);
+
         
         
