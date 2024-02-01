@@ -9,6 +9,5 @@
         korpa.napajanje = 300;
         korpa.ram = 100;
         console.log(korpa);
-        console.log('Ovo je neki tekst');
-         console.log('Ovo je neki tekst');
+        
         
